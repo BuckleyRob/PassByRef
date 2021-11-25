@@ -10,14 +10,16 @@ public class Main {
 
         int b = 3;
         System.out.println("Before:" + b);
-        ChangeNumber(b);
+        ChangeTheNumber(b);
         System.out.println("After: " + b);
     }
     //Change NUmber methdo
-    public static void ChangeNumber(int x){
+    public static void ChangeTheNumber(int x){
         x = 6;
     }
 	//CHange name method
+
+
     public static void ChangeName(Dog ninjas){
         ninjas.name = "Rex";
     }
