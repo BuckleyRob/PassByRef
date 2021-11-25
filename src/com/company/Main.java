@@ -17,6 +17,7 @@ public class Main {
     public static void ChangeNumber(int x){
         x = 6;
     }
+	//CHange name method
     public static void ChangeName(Dog ninjas){
         ninjas.name = "Rex";
     }
