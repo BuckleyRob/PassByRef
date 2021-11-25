@@ -1,7 +1,7 @@
 package com.company;
 
 public class Main {
-
+//Main method
     public static void main(String[] args) {
 	    Dog myDog = new Dog("Rover");
         System.out.println("Before:" + myDog.name);
