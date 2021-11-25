@@ -13,7 +13,7 @@ public class Main {
         ChangeNumber(b);
         System.out.println("After: " + b);
     }
-
+    //Change NUmber methdo
     public static void ChangeNumber(int x){
         x = 6;
     }
