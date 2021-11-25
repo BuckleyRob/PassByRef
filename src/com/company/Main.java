@@ -14,11 +14,11 @@ public class Main {
         System.out.println("After: " + b);
     }
 
-    public static void ChangeNumber(int x){
+    public static void DoChangeNumber(int x){
         x = 6;
     }
 	//CHange name method
-    public static void ChangeName(Dog ninjas){
+    public static void DoChangeName(Dog ninjas){
         ninjas.name = "Rex";
     }
 }
